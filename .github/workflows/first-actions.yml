@@ -5,9 +5,9 @@ jobs:
     runs-on: windows-latest
     steps: 
       - name: First step
-      - run: echo "This is the first step"
+        run: echo "This is the first step"
       - name: Second step
-      - run: echo "This is the second step"
+        run: echo "This is the second step"
   
 
 
